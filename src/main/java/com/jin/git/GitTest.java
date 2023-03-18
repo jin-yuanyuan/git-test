@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("hello.git4 by jinyuanyuan");
         System.out.println("hello.git5 by master");
         System.out.println("hello.git5 by jinyuanyuan");
+        System.out.println("hello.git5 by push test");
 
     }
 }
